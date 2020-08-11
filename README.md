@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reverse-wisdom)](https://github.com/anuraghazra/github-readme-stats)
