@@ -7,9 +7,6 @@ A lot of times. People don't know what they want until you show it to them
 Here are some ideas to get you started:
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
